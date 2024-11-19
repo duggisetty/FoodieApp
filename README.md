@@ -24,7 +24,8 @@ This is a mobile application built using Flutter, inspired by the food delivery 
 ## Setup Instructions:
 
 1. **Clone/Download the code from repository**:
-   
+   https://github.com/duggisetty/FoodieApp
+
 2. cd foodie-app
 
 3. flutter pub get
@@ -35,18 +36,19 @@ This is a mobile application built using Flutter, inspired by the food delivery 
 ## Screenshots
 
 ### Home Screen
-![Home Screen](assets/screenshots/home.png)
+![Home Screen](https://github.com/duggisetty/FoodieApp/blob/main/assets/screenshots/add_to_cart.jpg)
 
 ### Items
-![Cart Screen](assets/screenshots/cart.png)
+![Cart Screen](https://github.com/duggisetty/FoodieApp/blob/main/assets/screenshots/add_to_cart.jpg)
 
-![Home Screen](assets/screenshots/add_to_cart.png)
+![Home Screen](https://github.com/duggisetty/FoodieApp/blob/main/assets/screenshots/add_to_cart.jpg)
 
 ### Pay
-![Cart Screen](assets/screenshots/pay.png)
+![Cart Screen](https://github.com/duggisetty/FoodieApp/blob/main/assets/screenshots/add_to_cart.jpg)
 
 
 ## Author
-
+Venkat (Duggisetty)
 
 ## GitHub Profile Link: 
+https://github.com/duggisetty
